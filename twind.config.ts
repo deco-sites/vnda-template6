@@ -17,6 +17,7 @@ export default {
         "primary-red": "#B92C38",
       },
       fontFamily: {
+        montserrat: ["Montserrat", "sans-serif"],
         sans: ["Albert Sans", "sans-serif"],
         serif: ["serif"],
       },
